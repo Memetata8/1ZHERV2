@@ -1,2 +1,2 @@
-# 1ZHERVMain
-Repositary for 1ZHERV excersises
+# 1ZHERV2
+2nd 1ZHERV exercise
